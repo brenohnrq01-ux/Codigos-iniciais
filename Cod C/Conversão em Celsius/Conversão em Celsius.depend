@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1769188606 source:c:\users\breno\brenoh\git\cod c\conversão em celsius\main.c
+	<stdio.h>
+	<stdlib.h>
+
