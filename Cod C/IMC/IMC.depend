@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1769481519 source:c:\users\breno\brenoh\git\cod c\imc\main.c
+	<stdio.h>
+	<stdlib.h>
+
